@@ -1,5 +1,3 @@
-![Original 2024 Tableau pictogram: 818 dark-green tree icons for ChatGPT and 78 light-green icons for Google. Each icon represents 10,000 mature trees; the figures use historical assumptions.](assets/original-visualisation.png)
-
 # Digital Carbon Footprint
 ### ChatGPT vs Google · 2024
 
@@ -9,6 +7,8 @@ Selin Isken · University of Manchester · UCIL20421 Visualising Information
 How can an abstract quantity become something an audience can see and compare? This university project translated estimated digital carbon emissions into a grid of tree symbols, connecting numerical scale with a familiar environmental reference.
 
 > **Historical design study.** These are the original 2024 assumptions and outputs, not verified measurements of either platform’s current footprint. The tree figures represent **one year of mature-tree absorption applied to one month of assumed emissions**.
+
+![Original 2024 Tableau pictogram: 818 dark-green tree icons for ChatGPT and 78 light-green icons for Google. Each icon represents 10,000 mature trees; the figures use historical assumptions.](assets/original-visualisation.png)
 
 [Design decisions](#three-design-decisions) · [Methodology](docs/methodology.md) · [Sources & rights](docs/sources-and-rights.md) · [Original summary data](data/historical-tree-summary.csv)
 
