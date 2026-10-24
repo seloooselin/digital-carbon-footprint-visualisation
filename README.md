@@ -34,17 +34,11 @@ The recovered report describes iterations on spacing and alignment. The original
 
 ¹ Emissions divided by an assumed **22 kg CO₂ per mature tree per year**. The result is a tree-year equivalent, not a claim that newly planted trees immediately offset these emissions. [See the complete calculation chain and rounding](docs/methodology.md).
 
-## What I would carry forward
 
-The strongest part of the work is the translation from an abstract technical topic into a recognisable visual form. The most important lesson is that an engaging metaphor still needs a defensible denominator.
-
-- **Check assumptions before visual encoding.** The recovered evidence does not substantiate the per-query emission factors. The ChatGPT total assumes five queries per visit; Google visits are treated as single searches. This prevents a reliable like-for-like platform comparison.
-- **Make time units visible.** A month’s emissions are compared with a year’s absorption. The original title alone does not make that distinction clear.
-- **Keep the metaphor bounded.** Tree uptake varies with species, age and conditions. These equivalents are an illustration, not a measured offset programme. Exact totals and a textual explanation should accompany the image, particularly on smaller screens.
 
 ## About this edition
 
-This portfolio edition documents the recovered 2024 visual and its limitations. The report attributes the Tableau design and data preparation to Selin Isken; planning slides also contain conversational draft assistance. Individual assessment status has not been independently confirmed from an assignment brief.
+This portfolio edition documents the recovered 2024 visual and its limitations. The report attributes the Tableau design and data preparation to Selin Isken; planning slides also contain conversational draft assistance.
 
 The package includes the finished image and a two-row historical data extract. The editable workbook is withheld because it embeds extractable third-party icon artwork; the standalone icon and teaching/presentation materials are also excluded. [Publication review and attribution](docs/sources-and-rights.md).
 
